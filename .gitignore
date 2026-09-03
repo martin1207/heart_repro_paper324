@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+._*
+
+# keep only the compressed datasets under version control
+data/*.csv
